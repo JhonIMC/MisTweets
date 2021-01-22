@@ -1,0 +1,31 @@
+body{
+    background-color: #eee;
+}
+
+h1, h2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h1{
+    margin-bottom: 0%;
+}
+
+#elBotton{
+    font-size: 15px; 
+}
+
+.description{
+    text-align: center;    
+}
+
+#contenido {
+    margin-top: 40px;
+}
+.borrar-tweet,
+.borrar-tweet:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
